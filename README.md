@@ -1,2 +1,2 @@
-This is a site build using MERN stack
+This is a site built using MERN stack
 online: rujiayang.com
